@@ -1,6 +1,6 @@
 # Fossil Park App 
 
-An application for everything Rowan University Fossil Park, including the fossils it provides as well as descriptions of them. Created in Flutter. Some screenshots taken within the app are shown below.
+An application for everything Rowan University Fossil Park, including the fossils it provides as well as descriptions of them. Created using Flutter. Some screenshots taken within the app are shown below.
 
 # Screenshots
 <img src="images/ss1.png" width="250">            <img src="images/ss2.png" width="250">            <img src="images/ss3.png" width="250">
